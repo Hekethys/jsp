@@ -1,6 +1,6 @@
 ---
 title: TryHackMe
-description: CTF
+description: CTF Platform
 image:
 
 # Badge style
